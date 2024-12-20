@@ -1,0 +1,6 @@
+Model Name,Perplexity,BLEU Score,Inference Time (ms),Model Size (GB),Training Data Size (GB)
+GPT-3,10.2,88.5,500,175,570
+T5,12.3,82.7,700,11,745
+BLOOM,15.0,75.2,900,176,366
+XLNet,13.8,79.5,600,0.34,158
+LLaMA,11.5,85.0,400,65,1400
